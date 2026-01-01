@@ -1,0 +1,3 @@
+Revise to variable,loops,if,function,string,file,dictionary
+Learn python from 0 to hero
+I love python programming
